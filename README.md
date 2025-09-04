@@ -1,4 +1,4 @@
-# BoredApp
+# SparkFun
 App for when kids get bored
 
 
